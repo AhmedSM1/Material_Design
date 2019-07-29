@@ -1,4 +1,24 @@
 <h2>XYZ Reader App<h2>
+   
+   
+<div>
+   <span>
+      <img src="xyz_pic/Screenshot_20190729-092726_XYZ Reader.jpg" width="250">
+   </span>
+   
+   <span>
+      <img src="xyz_pic/Screenshot_20190729-092742_XYZ Reader.jpg" width="250">
+   </span>
+   
+   </div>
+   
+   
+   
+   
+   
+   
+   
+   
 
 Transformed the user experience of a news reading app using Material Design principles. This includes consistent and meaningful use of Material Design UI components, fonts, color, motion and surfaces.
 Project Specification
