@@ -39,7 +39,7 @@ Project Specification
 
    <li> App provides sufficient space between text and surrounding elements.</li>
 
-    <li>App uses images that are high quality, specific, and full bleed.</li>
+   <li>App uses images that are high quality, specific, and full bleed.</li>
 
 <li>App uses fonts that are either the Android defaults, are complementary, and aren’t otherwise distracting.</li>
 
