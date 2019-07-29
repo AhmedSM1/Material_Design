@@ -25,11 +25,11 @@ Project Specification
 <ul>
    <li> App uses the Design Support library and its provided widget types (FloatingActionButton, AppBarLayout, SnackBar, etc).</li>
 
-    <li>App uses CoordinatorLayout for the main Activity.</li>
+   <li>App uses CoordinatorLayout for the main Activity.</li>
 
-    <li>App theme extends from AppCompat.</li>
+   <li>App theme extends from AppCompat.</li>
 
-    <li>App uses an AppBar and associated Toolbars.</li>
+   <li>App uses an AppBar and associated Toolbars.</li>
 
    <li> App provides a Floating Action Button for the most common action(s).</li>
 
