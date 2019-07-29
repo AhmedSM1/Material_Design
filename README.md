@@ -10,6 +10,14 @@
       <img src="xyz_pic/Screenshot_20190729-092742_XYZ Reader.jpg" width="250">
    </span>
    
+   
+   <span>
+      <img src="xyz_pic/Screenshot_20190729-120216_XYZ Reader.jpg" width="250">
+   </span>
+   
+   
+   
+   
    </div>
    
    
